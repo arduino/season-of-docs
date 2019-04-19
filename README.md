@@ -1,4 +1,4 @@
-# Arduino and Google's Season Of Docs 2019
+# Arduino and Google's Season of Docs 2019
 (Excerpt from Google's [Season of Docs introduction](https://developers.google.com/season-of-docs/docs/))
 
 The goal of Season of Docs is to provide a framework for technical writers and open source projects to work together towards the common goal of improving an open source project's documentation. For technical writers who are new to open source, the program provides an opportunity to gain experience in contributing to open source projects. For technical writers who're already working in open source, the program provides a potentially new way of working together. Season of Docs also gives open source projects an opportunity to engage more of the technical writing community. During the program, technical writers spend a few months working closely with an open source community. They bring their technical writing expertise to the project's documentation, and at the same time learn about the open source project and new technologies.
