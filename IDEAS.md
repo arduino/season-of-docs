@@ -12,7 +12,7 @@
 
 ### Document third-party libraries
 
-There are hundreds or contributed libraries within the Arduino ecosystem. Those that are downloaded the most are typically having great documentation. However, there are still many libraries, both Arduino-made and contributed that do not expose all of their potential towards developers. While they have a more than decent (sometimes great) documentation for end-users, they need to have better documentation for potential contributors.
+There are hundreds of contributed libraries within the Arduino ecosystem. Those that are downloaded the most are typically having great documentation. However, there are still many libraries, both Arduino-made and contributed that do not expose all of their potential towards developers. While they have a more than decent (sometimes great) documentation for end-users, they need to have better documentation for potential contributors.
 
 Open source is good because it allows looking inside, but the one reason to look inside the guts of a library is to understand how it works to see whether it does what you want to do and, if not, figure out how to improve it to make it accommodate your own needs.
 
