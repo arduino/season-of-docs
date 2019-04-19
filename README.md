@@ -6,7 +6,7 @@ The open source projects work with the technical writers to improve the project'
 
 Together, we raise public awareness of open source docs, of technical writing, and of how we can work together to the benefit of the global open source community.
 
-Read more on Season Of Docs's [official website](https://developers.google.com/season-of-docs/).
+Read more on Season Of Docs' [official website](https://developers.google.com/season-of-docs/).
 
 # We are all about content. 
 Well, we also make impeccable boards, great software, and fabulous speeches … but the content is what glues all of the others together. We need to continue to produce nice examples, flawless technical docs, clean translations, and readable code-comments. 
