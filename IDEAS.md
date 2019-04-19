@@ -21,7 +21,7 @@ Related material:
 The Arduino Playground was an active public wiki that was open for editing by anyone in the Arduino community between 2006 and 2019. With the growth of the community and the arrival of new platforms for information exchange, the wiki became hard to manage and the decision was made of freezing its content as new infrastructure was planned to contain new relevant information about Arduino. The goal of this initiative is to select - based on browsing data and quality of the contribution- the most relevant pages from the Playground and migrate them, after corrections and updates to Arduino’s new Documentation platform or Project Publishing platform. While the old wiki will stay there for as long as the Internet exists, the new platform will be a better way to get our community to interact and continue to actively document the Arduino related OS projects, libraries, and tricks.
 
 Related material:
-- **[https://playground.arduino.cc](https://playground.arduino.cc)**
+- [https://playground.arduino.cc](https://playground.arduino.cc)
 
 ## Camera, Action!
 This is another “Collect, Curate and Reorganize the documentation” project.
