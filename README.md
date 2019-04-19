@@ -17,5 +17,11 @@ Making the best for our users, helping them reach their goals, whether it is pro
 # Project ideas
 Project ideas are suggestions from Arduino for projects that a technical writer can complete in collaboration with a mentor during Season of Docs. The list is published **[here](IDEAS.md)**.
 
+# Project mentors
+- [David Cuartielles](https://github.com/dcuartielles)
+- [Gianluca Varisco](https://github.com/gvarisco)
+- [Per Tillisch](https://github.com/per1234)
+- [Simone Majocchi](https://github.com/SimonePDA)
+
 # Contact us
 Many things are still in the making, but you can reach out to Arduino's Team via e-mail at anytime: <[season-of-docs@arduino.cc](mailto:season-of-docs@arduino.cc)>.
