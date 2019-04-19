@@ -1,6 +1,6 @@
 ## Information about the organization
 - Organization name: Arduino
-- Organization description: 
+- Organization description: The world’s leading open-source hardware and software ecosystem 
 - Website: [https://www.arduino.cc](https://www.arduino.cc)
 - GitHub org: [https://github.com/arduino/](https://github.com/arduino/)
 - E-mail address: [season-of-docs@arduino.cc](mailto:season-of-docs@arduino.cc)
@@ -75,7 +75,7 @@ Related material:
 -   [https://guides.github.com/features/mastering-markdown](https://guides.github.com/features/mastering-markdown)
 -   [https://help.github.com/en/articles/about-wikis](https://help.github.com/en/articles/about-wikis)
 
-### Technical Writer abilities
+## Technical Writer abilities
 
 -   Should have some knowledge about microcontrollers   
 -   Should have some knowledge about programming
