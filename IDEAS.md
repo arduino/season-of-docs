@@ -76,14 +76,14 @@ Related material:
 
 ## Technical Writer abilities
 
--   Should have some knowledge about microcontrollers   
--   Should have some knowledge about programming
--   Should have some basic knowledge about electronics
--   Why? -> you should understand what you are reading and writing about
--   Why? -> to explain something to someone you have to be knowledgeable about it
--   Should be willing to study or get some basic info on topics he is not familiar with
--   Should be able to summarize or expand any written text
--   Should be able to transform a complex topic into an understandable series of concepts
--   Should follow the standards for units, measures and technical acronyms (e.g: megohm, FFT … etc)
--   Should respect our founding values and agree on them (what is Arduino, its ecosystem, Open Source, “sharing is caring” …)
--   Should respect the basic rules of writing and journalism: report facts and keep opinions for himself; an attitude for fact checking would be very welcome.
+- Should have some knowledge about microcontrollers   
+- Should have some knowledge about programming
+- Should have some basic knowledge about electronics
+  1. Why? -> you should understand what you are reading and writing about
+  2. Why? -> to explain something to someone you have to be knowledgeable about it
+- Should be willing to study or get some basic info on topics he is not familiar with
+- Should be able to summarize or expand any written text
+- Should be able to transform a complex topic into an understandable series of concepts
+- Should follow the standards for units, measures and technical acronyms (e.g: megohm, FFT … etc)
+- Should respect our founding values and agree on them (what is Arduino, its ecosystem, Open Source, “sharing is caring” …)
+- Should respect the basic rules of writing and journalism: report facts and keep opinions for himself; an attitude for fact checking would be very welcome.
