@@ -22,7 +22,7 @@ Related material:
 -   [https://www.arduino.cc/en/Reference/Libraries](https://www.arduino.cc/en/Reference/Libraries)   
 
 ### Document Arduino cores
-How are Arduino cores done, and how to make them your own is something that we cover in a slightly superficial way on the Arduino website. We have increased the number of cores we have in our ecosystem over the years but there is still little about the philosophy of why they are made they way they are. It would be interesting to have some documentation made on this topic, also for our own hardware architects to-be to understand what makes a board an Arduino one.
+How are Arduino cores done, and how to make them your own is something that we cover in a slightly superficial way on the Arduino website. We have increased the number of cores we have in our ecosystem over the years but there is still little about the philosophy of why they are made the way they are. It would be interesting to have some documentation made on this topic, also for our own hardware architects to-be to understand what makes a board an Arduino one.
 
 Related material:
 - [https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification](https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification)
