@@ -12,7 +12,7 @@ Read more on Season Of Docs' [official website](https://developers.google.com/se
 Well, we also make impeccable boards, great software, and fabulous speeches … but the content is what glues all of the others together. We need to continue to produce nice examples, flawless technical docs, clean translations, and readable code-comments. 
 
 # How far will this take us?
-Making the best for our users, helping them reach their goals, whether it is prototypes, industrial machines, a Jedi sword, or laboratory-graded equipment, it is only possible because of documentation. Good libraries help people add new devices to our boards, good documentation helps people improve their results. The question is, how can we enroll others to make this work in a systemic-planned way? Being part of the Season of Docs initiative is a good opportunity for us to formulate what needs to be done and get some help in documenting parts of our open source projects.
+Making the best for our users, helping them reach their goals, whether it is prototypes, industrial machines, a Jedi sword, or laboratory-grade equipment, it is only possible because of documentation. Good libraries help people add new devices to our boards, good documentation helps people improve their results. The question is, how can we enroll others to make this work in a systemic-planned way? Being part of the Season of Docs initiative is a good opportunity for us to formulate what needs to be done and get some help in documenting parts of our open source projects.
 
 # Project ideas
 Project ideas are suggestions from Arduino for projects that a technical writer can complete in collaboration with a mentor during Season of Docs. The list is published **[here](IDEAS.md)**.
@@ -24,4 +24,4 @@ Project ideas are suggestions from Arduino for projects that a technical writer 
 - [Simone Majocchi](https://github.com/SimonePDA)
 
 # Contact us
-Many things are still in the making, but you can reach out to Arduino's Team via e-mail at anytime: <[season-of-docs@arduino.cc](mailto:season-of-docs@arduino.cc)>.
+Many things are still in the making, but you can reach out to Arduino's Team via e-mail at any time: <[season-of-docs@arduino.cc](mailto:season-of-docs@arduino.cc)>.
