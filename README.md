@@ -4,7 +4,7 @@
 The goal of Season of Docs is to provide a framework for technical writers and open source projects to work together towards the common goal of improving an open source project's documentation. For technical writers who are new to open source, the program provides an opportunity to gain experience in contributing to open source projects. For technical writers who're already working in open source, the program provides a potentially new way of working together. Season of Docs also gives open source projects an opportunity to engage more of the technical writing community. During the program, technical writers spend a few months working closely with an open source community. They bring their technical writing expertise to the project's documentation, and at the same time learn about the open source project and new technologies.
 The open source projects work with the technical writers to improve the project's documentation and processes. Together they may choose to build a new documentation set, or redesign the existing docs, or improve and document the open source community's contribution procedures and onboarding experience.
 
-Together, we raise public awareness of open source docs, of technical writing, and about how we can work together to the benefit of the global open source community.
+Together, we raise public awareness of open source docs, of technical writing, and of how we can work together to the benefit of the global open source community.
 
 Read more on Season Of Docs' [official website](https://developers.google.com/season-of-docs/).
 
