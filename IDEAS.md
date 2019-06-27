@@ -36,14 +36,14 @@ Related material:
 ### Camera, Action!
 This is another “Collect, Curate and Reorganize the documentation” project.
 
-Our users are producing an increasing number of videos that span from the basic “how to” to more complex step by step project assemblies. The different sources and videos could be remixed into structured groups, commented and sequenced by topic. As an example, we chose a topic about Ultrasound distance measurement; we start describing with text the theory, we show some video that proves it, then we offer a basic, intermediate and difficult projects all based on the same technology, showing selected and tested content in the “remixed” form explained below. Choosing a set of Sensors and Actuators as topics could easily create multimedia-based “Getting Started with Arduino” Content. To make the content more compelling and useful, we would like to develop a new style where text is used to express concepts, explain or remark issues and video is used to show the “hands-on” part of the passages where “a video is worth a thousand words”. This “remix” activity could split the videos into parts and chapters where the text complements and helps to focus the video content. Proper integration of text and video would grant a full understanding of the content and offer a good multimedia experience. This approach also puts the user back in control of the pace at which information is received and digested.
+Our users are producing an increasing number of videos that span from the basic “how to” to more complex step by step project assemblies. The different sources and videos could be remixed into structured groups, commented and sequenced by topic. As an example, we chose a topic about Ultrasound distance measurement; we start describing with text the theory, we show some video that proves it, then we offer a basic, intermediate and difficult projects all based on the same technology, showing selected and tested content in the “remixed” form explained below. Choosing a set of Sensors and Actuators as topics could easily create multimedia-based “Getting Started with Arduino” Content. To make the content more compelling and useful, we would like to develop a new style where the text is used to express concepts, explain or remark issues and video is used to show the “hands-on” part of the passages where “a video is worth a thousand words”. This “remix” activity could split the videos into parts and chapters where the text complements and helps to focus the video content. Proper integration of text and video would grant a full understanding of the content and offer a good multimedia experience. This approach also puts the user back in control of the pace at which information is received and digested.
 
 ### Translate the Arduino Language Reference
 The Arduino Language Reference contains the documentation of the programming language Arduino sketches are written in. To make Arduino more accessible to everyone, Arduino would like to translate the Language Reference content to other languages. We're looking for people with fluency in English in addition to any other language (except German and Portuguese, for which we have completed translations) to help with this effort.
 
 Translators are encouraged to suggest any potential improvements to the content they identify during the course of their work. Improvements are first made to the English language content and then pushed out to all the translation repositories from there.
 
-The Language Reference content is written in the AsciiDoc markup language and stored in a GitHub repository. The translations are published to the arduino.cc website.
+The Language Reference content is written in the AsciiDoc markup language and stored in a GitHub repository. The translations are published to the Arduino.cc website.
 
 Related material:
 -   [https://www.arduino.cc/reference/en](https://www.arduino.cc/reference/en)
@@ -65,7 +65,7 @@ The project is to create a user-friendly guide to:
 -   Customizing button graphics files   
 -   Installing custom themes
 
-The documentation will be written in Markdown and published in Arduino's wiki in the arduino/Arduino Github repository.
+The documentation will be written in Markdown and published in Arduino's wiki in the Arduino/Arduino Github repository.
 
 Related material:
 -   [https://github.com/per1234/ThemeTest/blob/master/README.md](https://github.com/per1234/ThemeTest/blob/master/README.md) 
